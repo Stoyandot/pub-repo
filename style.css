@@ -1972,7 +1972,7 @@ figure.block img {
 }
 
 .hero {
-  background-image: url(/images/hero-blogreversed.svg);
+  background-image: url(images/hero-blogreversed.svg);
   background-repeat: no-repeat;
   background-size: 58%;
   background-position: 100% 25%;
